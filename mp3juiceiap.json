@@ -1,5 +1,5 @@
 {
-  "name": 20,
-  "version": 20,
+  "name": "Mp3 Juice Update",
+  "version": 31,
   "changelog": "Added customization support for the AI prompt used for translations \r\n- Added a notification-based music recognition for the QS tile shortcut\r\n\r\n## Other improvements\r\n- Fixed incorrect artist order for multi-artist songs \r\n- Fixed playtime in the stats page not being fully visible \r\n- Improved radio to start seamlessly when initiated from the currently playing track\r\n- Improved the UI for tablets\r\n- Improved the About Screen layout \r\n- Fixed ghost adds on playlists \r\n- Improved search focus and navigation behavior \r\n- Added album navigation on song title click regardless of play source\r\n- Prevented UI state reset when switching apps \r\n- Restored the Daily Discover title in the Home screen\r\n- Fixed listen together audio choppiness\r\n- Redesigned romanization and account settings \r\n- Improved the design of the sleep timer dialog ",
   "apk_url": "https://github.com/tcomrepositor/crossupdateapks/releases/download/mp3Juice/mp3juice.apk"}
